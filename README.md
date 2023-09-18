@@ -1,11 +1,13 @@
 # snowman-by-python
 Welcome to the Snowman Drawing project! 🎨❄️
 
-In this repository, you'll find a delightful Python script that generates a charming snowman using NumPy and OpenCV. The script creates a whimsical winter scene, perfect for adding a touch of seasonal magic to your projects.
+In this repository, you'll find a delightful Python script that generates a charming snowman using NumPy and OpenCV. The script creates a whimsical winter scene.
 
 Features:
 🔵 Detailed snowman with customizable parameters.
+
 🌟 Beautifully crafted using Python and computer vision libraries.
+
 📸 Easily create, save, and share your snowman masterpiece.
 
 # Output of this Project

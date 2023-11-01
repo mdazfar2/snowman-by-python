@@ -8,7 +8,7 @@ In this repository, you'll find a delightful Python script that generates a char
 
 🌟 Beautifully crafted using Python and computer vision libraries.
 
-📸 Easily create, save, and share your snowman masterpiece./
+📸 Easily create, save, and share your snowman masterpiece.
 
 # Output of this Project
 
